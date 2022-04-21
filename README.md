@@ -1,9 +1,9 @@
 # Talk on The Unix Philosophy
-*Date: 2022-04-20*
+**Date: 2022-04-20**
 
 Presentation about the Unix Philosophy held at [New Default](https://www.newdefault.se).
 
-Numbers correspond to a slide (see pdf).
+*Numbers correspond to a slide (see pdf).*
 
 # THE UNIX PHILOSOPHY
 
